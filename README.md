@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Haseeb Javed
 - 👀 I’m interested in Web and app development
 - 🌱 I have skills of React.js and react native, for backend API's express and node js with database mongo DB and fire base.
-- 💞️ I’m looking to collaborate on Full stack developer remote jobs.
+- 💞️ I’m looking to collaborate on Full stack developer remote jobs and internship also.
 - 📫 How to reach me: LinkedIn account: (https://www.linkedin.com/in/haseeb-javed-997b73257)
 email: haseebkhanhk601@gmail.com
 WhatsApp: +92 3327398237
